@@ -8,8 +8,8 @@
 		"yamini981"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/yamini981/minecraft-mods",
+		"sources": "https://github.com/yamini981/minecraft-mods/tree/mainline/buff-foods-1.21.11"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/buff-foods/icon.png",
